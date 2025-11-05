@@ -46,10 +46,15 @@ This project is perfect for building your **DevOps portfolio** — showing skill
 ## 🚀 Features
 
 ✅ Django REST API with presigned upload URLs
+
 ✅ MinIO for object storage and access management
+
 ✅ PostgreSQL for metadata persistence
+
 ✅ Gunicorn for production-ready deployment
+
 ✅ Docker Compose orchestration with isolated services
+
 ✅ Environment-driven configuration for flexible setups
 
 ---
