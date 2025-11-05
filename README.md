@@ -1,4 +1,4 @@
-# UploadHub ⚙️
+# 🌐 UploadHub 🗄️☁️
 
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/)
 [![Python](https://img.shields.io/badge/Python-3.11-green?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
