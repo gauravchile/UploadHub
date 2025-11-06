@@ -21,7 +21,7 @@ services:
       - "9000:9000"
       - "9001:9001"
     volumes:
-      - minio_data:/data
+      - /home/vagrant/data:/data
     networks:
       - uploadhub_net
 
@@ -46,8 +46,7 @@ services:
       - uploadhub_net
 
 volumes:
-  db_data:
-  minio_data:
+   db_data:
 
 networks:
   uploadhub_net:
